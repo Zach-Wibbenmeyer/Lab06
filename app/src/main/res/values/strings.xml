@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 6 - Weather Forecast</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="openweather_api_key">8301442678d36413b4e3a04d016deee7</string>
+    <string name="openweather_units">imperial</string>
+    <string name="openweather_count">7</string>
+    <string name="city_value">Grand Rapids, MI</string>
+    <string name="fetch_button_label">Fetch</string>
+    <string name="connection_error">Failed to connect to service...</string>
+    <string name="day_text">Day</string>
+    <string name="summary_text">Summary</string>
+    <string name="min_label_text">Low:</string>
+    <string name="min_text">Min Temp</string>
+    <string name="max_label_text">High:</string>
+    <string name="max_text">Max Temp</string>
+</resources>
